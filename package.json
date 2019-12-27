@@ -1,0 +1,15 @@
+{
+  "name": "travelicity-backend-restaurantsvc",
+  "version": "1.0.0",
+  "description": "Backend service to retrieve data from Google places API using various queries and prepare custom JSON for front end",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Suvoraj Biswas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.0"
+  }
+}
